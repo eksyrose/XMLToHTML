@@ -1,0 +1,34 @@
+\\csfs\home$\ovchinnikova_a_i\profile\my documents\visual studio 2010\Projects\TestCaseForEcoCompany\TestCaseForEcoCompany\bin\Debug\TestCaseForEcoCompany.exe
+\\csfs\home$\ovchinnikova_a_i\profile\my documents\visual studio 2010\Projects\TestCaseForEcoCompany\TestCaseForEcoCompany\bin\Debug\TestCaseForEcoCompany.pdb
+\\csfs\home$\ovchinnikova_a_i\profile\my documents\visual studio 2010\Projects\TestCaseForEcoCompany\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.Form1.resources
+\\csfs\home$\ovchinnikova_a_i\profile\my documents\visual studio 2010\Projects\TestCaseForEcoCompany\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.Properties.Resources.resources
+\\csfs\home$\ovchinnikova_a_i\profile\my documents\visual studio 2010\Projects\TestCaseForEcoCompany\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.exe
+\\csfs\home$\ovchinnikova_a_i\profile\my documents\visual studio 2010\Projects\TestCaseForEcoCompany\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.pdb
+\\csfs\home$\ovchinnikova_a_i\Profile\My Documents\Visual Studio 2010\Projects\TestCaseForEcoCompany\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.csproj.GenerateResource.Cache
+\\csfs\home$\ovchinnikova_a_i\Profile\My Documents\Visual Studio 2010\Projects\TestCaseForEcoCompany\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.Form2.resources
+G:\TestCaseForEcoCompany v1\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.exe
+G:\TestCaseForEcoCompany v1\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.pdb
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.exe
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.pdb
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1\TestCaseForEcoCompany\bin\Debug\TestCaseForEcoCompany.exe
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1\TestCaseForEcoCompany\bin\Debug\TestCaseForEcoCompany.pdb
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.Form1.resources
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.Form2.resources
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.Properties.Resources.resources
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.csproj.GenerateResource.Cache
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.2\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.exe
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.2\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.pdb
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.2\TestCaseForEcoCompany\bin\Debug\TestCaseForEcoCompany.exe
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.2\TestCaseForEcoCompany\bin\Debug\TestCaseForEcoCompany.pdb
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.2\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.Form1.resources
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.2\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.Form2.resources
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.2\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.Properties.Resources.resources
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.2\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.csproj.GenerateResource.Cache
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.3\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.exe
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.3\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.pdb
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.3\TestCaseForEcoCompany\bin\Debug\TestCaseForEcoCompany.exe
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.3\TestCaseForEcoCompany\bin\Debug\TestCaseForEcoCompany.pdb
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.3\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.Form1.resources
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.3\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.Form2.resources
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.3\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.Properties.Resources.resources
+C:\Users\Lilia\Desktop\TestCaseForEcoCompany v1.3\TestCaseForEcoCompany\obj\x86\Debug\TestCaseForEcoCompany.csproj.GenerateResource.Cache
